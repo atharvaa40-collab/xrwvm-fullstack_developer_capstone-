@@ -1,1 +1,151 @@
-# xrwvm-fullstack_developer_capstone-
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About Us - Best Cars Dealership</title>
+
+<link rel="stylesheet" href="/static/bootstrap.min.css">
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color:darkturquoise;">
+
+<div class="container-fluid">
+
+<h2 style="padding-right:5%;">Dealerships</h2>
+
+<div class="collapse navbar-collapse">
+
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+<li class="nav-item">
+
+<a class="nav-link" href="/">Home</a>
+
+</li>
+
+<li class="nav-item">
+
+<a class="nav-link active" href="/about">About Us</a>
+
+</li>
+
+<li class="nav-item">
+
+<a class="nav-link" href="/contact">Contact Us</a>
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</nav>
+
+
+<div class="card" style="width:90%;margin:auto;margin-top:5%;">
+
+<div class="banner" style="padding:30px;text-align:center;">
+
+<h1>About Us</h1>
+
+<p>
+Welcome to Best Cars Dealership. Our team is committed to providing
+quality vehicles and a reliable dealership experience.
+</p>
+
+</div>
+
+
+<div style="display:flex;flex-direction:row;justify-content:center;
+gap:20px;margin:20px;flex-wrap:wrap;">
+
+
+<div class="card" style="width:30%;min-width:250px;">
+
+<img class="card-img-top" src="/static/person.png"
+alt="Atharva Aher">
+
+<div class="card-body">
+
+<h4>Atharva Aher</h4>
+
+<p><strong>Frontend & UI Developer</strong></p>
+
+<p>
+Responsible for frontend development, UI design,
+and creating a simple and responsive dealership experience.
+</p>
+
+<p>Email: atharva.aher@example.com</p>
+
+</div>
+
+</div>
+
+
+<div class="card" style="width:30%;min-width:250px;">
+
+<img class="card-img-top" src="/static/person.png"
+alt="Team Member">
+
+<div class="card-body">
+
+<h4>Team Member</h4>
+
+<p><strong>Backend & Database Developer</strong></p>
+
+<p>
+Responsible for backend functionality, database
+integration, and dealership information management.
+</p>
+
+<p>Email: team.member@example.com</p>
+
+</div>
+
+</div>
+
+
+<div class="card" style="width:30%;min-width:250px;">
+
+<img class="card-img-top" src="/static/person.png"
+alt="Team Member">
+
+<div class="card-body">
+
+<h4>Team Member</h4>
+
+<p><strong>Full-Stack Developer</strong></p>
+
+<p>
+Responsible for application development,
+API integration, and project functionality.
+</p>
+
+<p>Email: team.member@example.com</p>
+
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+
+</body>
+
+</html>
